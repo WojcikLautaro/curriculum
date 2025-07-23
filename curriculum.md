@@ -95,26 +95,26 @@ EETS N°2 – Mar del Plata (2011–2017)
 ## Proyectos
 
 **SmallPHPFramework**  
-Microframework en PHP puro diseñado para aprender y desarrollar aplicaciones web ligeras. Implementa rutas, controladores, vistas y carga automática.
+Microframework en PHP puro diseñado para aprender y desarrollar aplicaciones web ligeras. Implementa rutas, controladores, vistas y carga automática.  
 *[Ver en GitHub](https://github.com/WojcikLautaro/SmallPHPFramework)*
 
 **Sistema de respaldo automático con Arch Linux**
-Configuración personalizada de entorno Arch con scripts de respaldo periódico y recuperación ante fallos.
+Configuración personalizada de entorno Arch con scripts de respaldo periódico y recuperación ante fallos.  
 
 **Transferencia de archivos por red local**
-Servidor y cliente en Python usando sockets para envío de archivos entre dispositivos por LAN.
+Servidor y cliente en Python usando sockets para envío de archivos entre dispositivos por LAN.  
 *[Ver en GitHub](https://github.com/WojcikLautaro/SmallPythonFileTransferSystem)*
 
 **Currículum Web**
-Sitio web diseñado desde cero en HTML, CSS y Bootstrap para presentar mi experiencia, habilidades técnicas y trayectoria. Incluye íconos, diseño responsive, secciones dinámicas y enlaces a perfiles profesionales.
+Sitio web diseñado desde cero en HTML, CSS y Bootstrap para presentar mi experiencia, habilidades técnicas y trayectoria. Incluye íconos, diseño responsive, secciones dinámicas y enlaces a perfiles profesionales.  
 *[Ver en GitHub](https://github.com/WojcikLautaro/curriculum)*
 
 **Resolución de algoritmos competitivos**
-Participación activa en LeetCode con enfoque en estructuras de datos, lógica algorítmica y resolución eficiente de problemas en C++.
+Participación activa en LeetCode con enfoque en estructuras de datos, lógica algorítmica y resolución eficiente de problemas en C++.  
 *[Ver en LeetCode](https://leetcode.com/u/jadeDemon/)*
 
 **Blog de alquiler**
-Sitio web simple en Blogger para promoción de propiedad en alquiler. Incluye imágenes, mapas y formulario de contacto.
+Sitio web simple en Blogger para promoción de propiedad en alquiler. Incluye imágenes, mapas y formulario de contacto.  
 *[Ver en Blogspot](https://alquilerenreserva.blogspot.com/p/blog-page_52.html)*
 
 
