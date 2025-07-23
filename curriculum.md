@@ -1,10 +1,6 @@
 # Lautaro Wojcik
 
-![Foto de Perfil](20230717_141243.jpg#photo) {
-   width:150px;
-   height:100px;
-}
-
+<img src="20230717_141243.jpg" alt="Foto de Perfil" width="200"/>
 
 ## Perfil Profesional
 
@@ -119,7 +115,7 @@ Participación activa en LeetCode con enfoque en estructuras de datos, lógica a
 
 **Blog de alquiler**
 Sitio web simple en Blogger para promoción de propiedad en alquiler. Incluye imágenes, mapas y formulario de contacto.
-*[Ver en Blogspot](href="https://alquilerenreserva.blogspot.com/p/blog-page_52.html)*
+*[Ver en Blogspot](https://alquilerenreserva.blogspot.com/p/blog-page_52.html)*
 
 
 
