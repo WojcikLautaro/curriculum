@@ -16,7 +16,9 @@
         <br>
 
         <div class="container mt-5 pb-5">
-            <button class="btn btn-outline-primary mt-3" onclick="downloadPDF()">Descargar CV en formato PDF</button>
+            <a href="curriculum.pdf" download="curriculum.pdf">
+                <button class="btn btn-outline-primary mt-3">Descargar CV en formato PDF</button>
+            </a>
         </div>
     </div>
 
@@ -25,20 +27,12 @@
 
     <!-- https://github.com/markedjs/marked -->
     <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
-
-    <!-- -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
     
     <script>
         async function loadMarkdown() {
           const response = await fetch('curriculum.md');
           const mdText = await response.text();
           document.getElementById('content').innerHTML = marked.parse(mdText);
-        }
-
-        function downloadPDF() {
-          const content = document.getElementById('content');
-          html2pdf().from(content).save('document.pdf');
         }
 
         loadMarkdown();
