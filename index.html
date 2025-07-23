@@ -5,9 +5,6 @@
     <meta charset="UTF-8">
     <title>Lautaro Wojcik CV</title>
 
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
-
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="bootstrap-5.3.7-dist/css/bootstrap.min.css">
 </head>
@@ -26,11 +23,17 @@
     <!-- Bootstrap JS -->
     <script src="bootstrap-5.3.7-dist/js/bootstrap.bundle.min.js"></script>
 
+    <!-- https://github.com/markedjs/marked -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
+
+    <!-- -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    
     <script>
         async function loadMarkdown() {
           const response = await fetch('curriculum.md');
           const mdText = await response.text();
-          document.getElementById('content').innerHTML = marked.marked(mdText);
+          document.getElementById('content').innerHTML = marked.parse(mdText);
         }
 
         function downloadPDF() {
