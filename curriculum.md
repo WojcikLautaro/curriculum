@@ -61,6 +61,7 @@ EETS N°2 – Mar del Plata (2011–2017)
 **Construcción y Habilidades Manuales**
 - **Carpintería y Construcción:** Construcción de estructuras, trabajos en madera, mantenimiento general.
 - **Diseño e Implementación Manual:** Proyectos autónomos con alto grado de resolución técnica.
+
 **Gestión de Documentos y Herramientas Digitales**
 - Manejo de servicios en la nube para documentación y gestión.
 - Capacidad para crear y administrar sistemas de archivo digital.
