@@ -30,7 +30,7 @@
         async function loadMarkdown() {
           const response = await fetch('curriculum.md');
           const mdText = await response.text();
-          document.getElementById('content').innerHTML = marked(mdText);
+          document.getElementById('content').innerHTML = marked.marked(mdText);
         }
 
         function downloadPDF() {
