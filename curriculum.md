@@ -1,6 +1,6 @@
 # Lautaro Wojcik
 
-<img src="20230717_141243.jpg" alt="Foto de Perfil" width="200"/>
+<img src="20230717_141243.png" style="transform: rotate(0deg);" alt="Foto de Perfil" width="200"/>
 
 ## Perfil Profesional
 
@@ -119,6 +119,9 @@ Sitio web simple en Blogger para promoción de propiedad en alquiler. Incluye im
 *[Ver en Blogspot](https://alquilerenreserva.blogspot.com/p/blog-page_52.html)*
 
 
+# Ultima version de mi CV
+
+<img src="QR - Github, curriculum.png" alt="QR" width="200"/>
 
 
-  
+**[https://wojciklautaro.github.io/curriculum/](https://wojciklautaro.github.io/curriculum/)**
